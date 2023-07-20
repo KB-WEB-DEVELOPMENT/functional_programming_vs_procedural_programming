@@ -13,4 +13,5 @@ function getTags() {
 	 82,53,'milk',7104,'some word',972,'house',281,'mushroom',813,
 	 67,87,'syrup',5721,'some other word',29871,'house',87,'vegetables',98814,
 	 56,825,'wine',3482,'still some other word',2741,'house',87,'meat',148,
-];
+   ];
+}	
