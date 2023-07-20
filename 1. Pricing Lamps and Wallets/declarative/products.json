@@ -1,0 +1,742 @@
+{
+ "products": 
+    [
+        {
+            "title": "Small Rubber Wallet",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Blue", "price": 29.33 },
+                { "title": "Turquoise", "price": 18.50 }  
+            ]
+        },
+        {
+            "title": "Intelligent Cotton Wallet",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "White", "price": 29.93 } 
+            ]
+        },
+        {
+            "title": "Sleek Cotton Shoes",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Sky Blue", "price": 15.77 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 1",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Sky Blue", "price": 28.33 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 2",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Indigo Blue", "price": 19.02 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 3",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Green", "price": 82.77 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 4",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Beige", "price": 27.16 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 5",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Light Green", "price": 35.99 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 6",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Dark Blue", "price": 67.23 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 7",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Silver", "price": 67.53 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 8",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Khaki", "price": 71.82 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 9",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Blue violet", "price": 85.12 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 10",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Maroon", "price": 27.76 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 11",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Navy blue", "price": 16.87 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 12",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Yellow", "price": 45.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 13",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Green", "price": 27.26 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 14",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Orange", "price": 39.67 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 15",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Brown", "price": 56.17 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 16",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Black", "price": 78.17 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 17",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "White", "price": 82.18 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 18",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Blue", "price": 27.26 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 19",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Light Brown", "price": 91.26 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 20",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Pink", "price": 102.99 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 21",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Lime green", "price": 28.11 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 22",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Purple", "price": 762.12 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 23",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Crimson", "price": 67.15 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 24",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Lavender", "price": 99.99 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 25",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Violet", "price": 102.76 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 26",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Salmon", "price": 101.02 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 27",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Gray", "price": 101.11 } 
+            ]
+        },
+        {
+            "title": "Some Product Tile 28",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Red", "price": 121.89 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 29",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Alice blue", "price": 16.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Tile 30",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Apple green", "price": 28.21 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 31",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Burgundy", "price": 31.32 } 
+            ]
+        },
+        {
+            "title": "Some Product Tile 32",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Emerald", "price": 56.78 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 34",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Magenta", "price": 66.21 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 35",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Peach", "price": 55.67 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 36",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Turquoise", "price": 44.87 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 37",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Viridian", "price": 109.99 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 38",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Red-violet", "price": 29.33 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 39",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Sangria", "price": 27.66 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 40",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Sapphire", "price": 45.32 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 41",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Scarlet", "price": 23.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 42",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Orchid", "price": 82.11 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 43",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Persian blue", "price": 17.99 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 44",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Raspberry", "price": 14.82 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 45",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Slate gray", "price": 11.08 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 46",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Spring green", "price": 55.26 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 47",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Taupe", "price": 88.88 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 48",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Ultramarine", "price": 81.76 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 49",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Prussian blue", "price": 65.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 50",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Olive", "price": 56.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 51",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Maroon", "price": 45.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 52",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Mauve", "price": 53.29 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 53",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Lavender", "price": 41.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 54",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Lilac", "price": 24.89 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 55",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Lime", "price": 22.19 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 56",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Ivory", "price": 21.17 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 57",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Spring bud", "price": 22.68 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 58",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Desert sand", "price": 56.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 59",
+            "product_type": "Lamop",
+            "variants": [
+                { "title": "Bronze", "price": 36.99 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 60",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Azure", "price": 24.34 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 61",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Amaranth", "price": 22.18 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 62",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Apricot", "price": 18.99 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 63",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Blue-green", "price": 14.82 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 64",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Beige", "price": 17.11 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 65",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Byzantium", "price": 16.29 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 66",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Cerise", "price": 99.82 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 67",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Copper", "price": 66.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 68",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Cyan", "price": 15.12 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 69",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Ochre", "price": 14.76 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 70",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Pink", "price": 17.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 71",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Red-violet", "price": 26.87 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 72",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Lemon", "price": 26.51 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 73",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "White", "price": 11.09 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 74",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Yellow", "price": 84.21 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 75",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Harlequin", "price": 14.87 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 76",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Coral", "price": 18.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 77",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Cobalt blue", "price": 13.29 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 78",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Carmine", "price": 82.76 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 79",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Blush", "price": 62.37 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 80",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Amber", "price": 17.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 81",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Amethyst", "price": 54.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 82",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Champagne", "price": 52.38 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 83",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Cobalt blue", "price": 78.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 84",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Jungle green", "price": 43.29 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 85",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Magenta rose", "price": 97.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 86",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Puce", "price": 90.01 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 87",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Turquoise", "price": 111.28 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 88",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Viridian", "price": 26.02 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 89",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Periwinkle", "price": 51.87 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 90",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Erin", "price": 45.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 91",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Electric blue", "price": 98.26 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 92",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Cerulean", "price": 15.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 93",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Chocolate", "price": 78.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 94",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Aquamarine", "price": 45.17 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 95",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Beige", "price": 54.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 96",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Amber", "price": 196.27 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 97",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Blush", "price": 197.01 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 98",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Brown", "price": 165.23 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 99",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Emerald", "price": 165.21 } 
+            ]
+        },
+        {
+            "title": "Some Product Title 100",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Jade", "price": 65.27 } 
+            ]
+        },
+        {
+            "title": "Sleek Cotton Shoes",
+            "product_type": "Wallet",
+            "variants": [
+                { "title": "Chartreuse green", "price": 43.23 } 
+            ]
+        },
+        {
+            "title": "Sleek Cotton Shoes",
+            "product_type": "Shoes",
+            "variants": [
+                { "title": "Apricot", "price": 182.01 } 
+            ]
+        },
+        {
+            "title": "Enormous Leather Lamp",
+            "product_type": "Lamp",
+            "variants": [
+                { "title": "Azure", "price": 65.99 },
+                { "title": "Salmon", "price": 1.66 }
+            ]
+        }
+    ]
+ }
